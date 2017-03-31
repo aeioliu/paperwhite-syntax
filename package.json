@@ -1,13 +1,16 @@
 {
   "name": "paperwhite-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.0",
+  "description": "Simple and clean light Atom syntax theme",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "light",
+    "paperwhite",
+    "clean"
   ],
-  "repository": "https://github.com/atom/paperwhite-syntax",
+  "repository": "https://github.com/aeioliu/paperwhite-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
